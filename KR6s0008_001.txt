@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:06:34.764249
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:16
 #+TITLE: 教乘法數（選錄序文）
 #+PROPERTY: CBETA_ID P189n1630
 #+PROPERTY: ID KR6s0008
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 189, No. 1630
 #+PROPERTY: VOL 189
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0008_P_001-0291a> 
 #+PROPERTY: JUAN 1
-
- 教乘法數序　　　　　　　　　　穡一¶
+教乘法數序　　　　　　　　　　穡一¶
 
 原夫經律論藏其文洁愽奚翅踰數千百卷¶
 之夥以至從末究本攝果該因性相殊途而¶
